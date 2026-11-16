@@ -2,5 +2,7 @@
   "name": "Desa Wisata Lereng Asri",
   "description": "Portal informasi resmi destinasi alam, paket wisata, galeri, peta lokasi, dan pemesanan langsung via WhatsApp Desa Wisata Lereng Asri.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

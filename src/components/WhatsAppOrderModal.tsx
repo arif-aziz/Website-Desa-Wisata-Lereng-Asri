@@ -100,7 +100,7 @@ export function WhatsAppOrderModal({
         <div className="px-6 pt-4 pb-5 border-b border-[#2d6a4f]/10 flex items-start justify-between gap-4">
           <div>
             <p className="text-sm font-medium text-[#2d6a4f]">
-              Pemesanan Langsung · {whatsappDisplay}
+              Pemesanan Langsung via WA
             </p>
             <h2 id="wa-modal-title" className="text-xl md:text-2xl font-bold text-[#132a13] mt-1">
               {draft.itemTitle}
